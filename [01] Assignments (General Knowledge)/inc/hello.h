@@ -1,0 +1,2 @@
+void helloThanh();
+void helloWorld();
