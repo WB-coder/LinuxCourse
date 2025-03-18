@@ -1,4 +1,3 @@
-```markdown
 # Peer-to-Peer Chat Application
 
 A command-line peer-to-peer (P2P) chat application that allows users to connect over TCP, exchange messages, and manage connections. Built in C with a focus on reliability, security, and clean code practices.
