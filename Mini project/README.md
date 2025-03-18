@@ -75,21 +75,14 @@ Closing all connections...
 │   ├── message.h
 │   └── utils.h
 ├── Makefile
-├── peer_app
 ├── README.md
 └── src
     ├── cli.c
-    ├── cli.o
     ├── common.c
-    ├── common.o
     ├── connection.c
-    ├── connection.o
     ├── main.c
-    ├── main.o
     ├── message.c
-    ├── message.o
-    ├── utils.c
-    └── utils.o
+    └── utils.c
 
 ```
 
